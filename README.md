@@ -1,2 +1,3 @@
 #Basic_HTML_and_Javascript_1
-This is the first project folder introducing Javascript and HTML integration.
+1. Javascript and HTML integration
+    - All files contain JS and HTML examples for bootcamp.
